@@ -1,0 +1,11 @@
+https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI
+- pwd 
+- cd desktop
+- git clone : link  (clone the repo)
+- cd testrepo 
+- git checkout -b (dev.kev) - create branch
+- touch html.txt
+- git status
+- git add .
+- git commit -m "message"
+- git push origin (branch name)
